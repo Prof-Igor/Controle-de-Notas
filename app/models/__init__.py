@@ -1,0 +1,1 @@
+from .user_model import authenticate_user
