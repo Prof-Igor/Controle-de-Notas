@@ -1,1 +1,1 @@
-from .user_model import authenticate_user
+from .user_model import create_user, authenticate_user
